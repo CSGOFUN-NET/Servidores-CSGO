@@ -37,9 +37,7 @@ Lista de Servidores CS:GO da CSGOFUN.NET.
 - 128 Tickrate;
 
 ## Imagens
-![](https://user-images.githubusercontent.com/32937653/80895340-3a693300-8cba-11ea-9eb8-04741b28157d.png)
-
-<img src="https://user-images.githubusercontent.com/32937653/80895340-3a693300-8cba-11ea-9eb8-04741b28157d.png height="250" width="250"">
+![CSGOFUN.NET](https://user-images.githubusercontent.com/32937653/80895340-3a693300-8cba-11ea-9eb8-04741b28157d.png)
 
 ![banner1](https://user-images.githubusercontent.com/32937653/80895341-3b9a6000-8cba-11ea-98a3-541ffdb846dd.png)
 
