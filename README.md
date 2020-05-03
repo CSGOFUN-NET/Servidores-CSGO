@@ -44,7 +44,7 @@ Lista de Servidores CS:GO da CSGOFUN.NET.
 ![banner2](https://user-images.githubusercontent.com/32937653/80895342-3b9a6000-8cba-11ea-946b-819e681aa2c1.png)
 
 ## Parcerias
-![ZK Servidores™](https://zkservidores.com)
+- [ZK Servidores™](https://zkservidores.com)
 
 ## Contato
 - [CSGOFUN.NET](http://csgofun.net)
