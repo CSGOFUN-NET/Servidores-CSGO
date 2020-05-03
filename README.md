@@ -37,7 +37,7 @@ Lista de Servidores CS:GO da CSGOFUN.NET.
 - 128 Tickrate;
 
 ## Imagens
-![CSGOFUN](https://user-images.githubusercontent.com/32937653/80895340-3a693300-8cba-11ea-9eb8-04741b28157d.png)
+![CSGOFUN](https://user-images.githubusercontent.com/32937653/80895340-3a693300-8cba-11ea-9eb8-04741b28157d.png =250x250)
 
 ![banner1](https://user-images.githubusercontent.com/32937653/80895341-3b9a6000-8cba-11ea-98a3-541ffdb846dd.png)
 
@@ -46,9 +46,9 @@ Lista de Servidores CS:GO da CSGOFUN.NET.
 ## Parcerias
 - [ZK Servidores™](https://zkservidores.com)
 
-<a href="https://opencollective.com/readme-md-generator/organization/0/website"> <img src = "https://opencollective.com/readme-md-generator/organization/0/avatar.svg "> </a>
-<a href="https://opencollective.com/readme-md-generator/organization/1/website"> <img src = "https://opencollective.com/readme-md-generator/organization/1/avatar.svg "> </a>
-<a href="https://opencollective.com/readme-md-generator/organization/2/website"> <img src = "https://opencollective.com/readme-md-generator/organization/2/avatar.svg "> </a>
+<a href="https://opencollective.com/readme-md-generator/organization/0/website"> <img src = "https://opencollective.com/readme-md-generator/organization/0/avatar .svg "> </a>
+<a href="https://opencollective.com/readme-md-generator/organization/1/website"> <img src = "https://opencollective.com/readme-md-generator/organization/1/avatar .svg "> </a>
+<a href="https://opencollective.com/readme-md-generator/organization/2/website"> <img src = "https://opencollective.com/readme-md-generator/organization/2/avatar .svg "> </a>
 
 ## Contato
 - [CSGOFUN.NET](http://csgofun.net)
