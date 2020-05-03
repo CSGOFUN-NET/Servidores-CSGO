@@ -1,4 +1,4 @@
-# CSGOFUN.NET | Servidores CSGO
+# CSGOFUN.NET | Servidores CS:GO
 Lista de Servidores CS:GO da CSGOFUN.NET.
 
 ## Competitivo
