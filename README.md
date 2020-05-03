@@ -49,5 +49,5 @@ Lista de Servidores CS:GO da CSGOFUN.NET.
 ## Contato
 - [CSGOFUN.NET](http://csgofun.net)
 - [Grupo Steam](https://steamcommunity.com/groups/ggservidores)
-- [Discord](https://www.discord.gg/nGpvn9F)
+- [Discord](https://www.discord.gg/J8XtQSB)
 - [cowboy](https://steamcommunity.com/profiles/76561198444723335)
